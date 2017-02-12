@@ -1,2 +1,2 @@
 # white-noise
-# pregressing in the github "hello_world" guide
+# progressing in the github "hello_world" guide
